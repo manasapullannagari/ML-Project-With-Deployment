@@ -4,5 +4,8 @@
 ### b. setp.py in VSCode
 ### c. requirements.txt in VS Code
 
-## 2 - 
+## 2 - Source folder and build package
+#### a. setup components for DS project cycle
+#### b. setup logging and exception files
+#### c. setup training and predict pipelines
 
